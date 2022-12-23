@@ -1,0 +1,1 @@
+Domain-helper is a backend web project developed to ease the difficulty that comes with deciding a domain name for there website. Additionally domain-helper provide a url-shortener service.

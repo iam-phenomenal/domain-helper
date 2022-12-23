@@ -1,0 +1,33 @@
+{
+  "name": "domain-helper",
+  "version": "1.0.0",
+  "description": "A microservice focused on domain name generation and url shortening",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iam-phenomenal/domain-helper.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "RESTAPI",
+    "Mongoose",
+    "Express",
+    "Url-shortener"
+  ],
+  "author": "Ayandiran Ibrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iam-phenomenal/domain-helper/issues"
+  },
+  "homepage": "https://github.com/iam-phenomenal/domain-helper#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "mongoose": "^6.8.1",
+    "morgan": "^1.10.0"
+  }
+}
